@@ -264,10 +264,11 @@ form {
   margin-top: 6vw;
   /* margin-bottom: 4vw; */
   box-shadow: -0.5px -0.5px 10px rgb(168, 168, 168);
+
 }
 label {
   font-size: 1vw;
-  color: #666666;
+  color: #000000;
   font-weight: bolder;
   margin-bottom: 0.8vw;
   margin-top: 2vw;
@@ -280,8 +281,9 @@ label {
   border: 0px;
   padding-left: 1.5vw;
   font-weight: bolder;
-  color: #e2e2e2;
+  color: #0f0e0e;
   font-size: 1vw;
+  
 }
 
 textarea {
@@ -292,7 +294,7 @@ textarea {
   border: 0px;
   padding-left: 1.5vw;
   font-weight: bolder;
-  color: #e2e2e2;
+  color: hsl(0, 0%, 0%);
   font-size: 1vw;
   padding-top: 1.2vw;
   max-width: 100%;
