@@ -32,6 +32,8 @@ nav {
 }
 .logo {
   width: 10vw;
+  margin-right: 20vw;
+  
 }
 .sticky > i {
   display: none;
@@ -229,6 +231,37 @@ nav > ul > li > a {
 .media {
   display: none;
 }
+
+
+/* ===================Certifications=================*/
+
+.cer-one{
+  height: 200vw;
+  width: 100%;
+}
+.center-one{
+  text-align: center;
+}
+.card{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  border-radius: 2vw;
+  height: 30vw;
+  width: 40vw;
+  border: 1px solid black;
+  margin-left: 10px;
+  gap: 20px;
+}
+
+
+
+
+
+
+
+
+
 /* ==========================PAGE-4================================== */
 .page-4 {
   padding-top: 6vw;
